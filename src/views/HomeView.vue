@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import TimeLine from '@/components/TimeLine.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <TimeLine/>
   </main>
 </template>
